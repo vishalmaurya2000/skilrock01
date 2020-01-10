@@ -1,2 +1,0 @@
-Hi I am Vishal Maurya
-ssh -g -L 4019:localhost:80 -f -N root@192.168.2.129
